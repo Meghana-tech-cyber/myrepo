@@ -1,7 +1,6 @@
 
 Hello World
-<<<<<<< Updated upstream
-=======
+
 How are you??
 
 I am fine and you?
@@ -21,4 +20,4 @@ into the main branch and commit the changes.origin
 Then we can view the changes and the versions of 
 the changes both in local and in shared repository
 (i.e., Git using browser). 
->>>>>>> Stashed changes
+
