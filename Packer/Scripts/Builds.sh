@@ -19,5 +19,9 @@ into the main branch and commit the changes.origin
 
 Then we can view the changes and the versions of 
 the changes both in local and in shared repository
-(i.e., Git using browser). 
+(i.e., Git using browser).
+
+
+Done with testing with local, sublime editor and 
+shared repository.  
 
